@@ -10,7 +10,7 @@ title: Noob Linux
 email: jonasbfranco@gmail.com
 description: "Esse é um blog minimalista criado para levar até a comunidade aprendizado sobre Linux,
               tutoriais sobre Linux e sobre HTML, CSS, JavaScript, PHP, MySQL, NodeJS, e Jekyll."
-baseurl: "/blog"
+baseurl: "/blog-minimal"
 url: "https://jonasbfranco.github.io"
 twitter_username: jonasbfranco
 github_username:  jonasbfranco
